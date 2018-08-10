@@ -66,14 +66,15 @@ body {
   fill: #4080ff;
 }
 
-/*.bar {
+.bar {
   background: #4080ff;
   height: 3px;
   margin-bottom: 8px;
   position: relative;
   width: 100%;
 }
-.cover {
+
+/*.cover {
   background: #fff;
   height: 100%;
   left: 0;
