@@ -1,4 +1,4 @@
-/*var navigate = (function() {
+var navigate = (function() {
   $('.dd').toggle();
   $('.dd_btn').click(function() {
     var dataName = $(this).attr('data-name');
@@ -7,7 +7,7 @@
   });
 })();
 
-window.$ = document.querySelector.bind(document);
+/*window.$ = document.querySelector.bind(document);
 window.$$ = document.querySelectorAll.bind(document);
 const allOptions = $$('.option')
 const options = $('.options')
