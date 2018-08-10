@@ -95,10 +95,11 @@ body {
   transition: transform 200ms 120ms;
 }
 
-/*.right .cover2 {
+.right .cover2 {
   transition: transform 200ms;
 }
-.index0 .cover1 {
+
+/*.index0 .cover1 {
   transform: translateX(-95%) skew(45deg);
 }
 .index0 .cover2 {
