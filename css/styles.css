@@ -74,7 +74,7 @@ body {
   width: 100%;
 }
 
-/*.cover {
+.cover {
   background: #fff;
   height: 100%;
   left: 0;
@@ -82,7 +82,8 @@ body {
   top: 0;
   width: 100%;
 }
-.left .cover1 {
+
+/*.left .cover1 {
   transition: transform 200ms;
 }
 .left .cover2 {
