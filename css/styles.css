@@ -91,10 +91,11 @@ body {
   transition: transform 200ms 120ms;
 }
 
-/*.right .cover1 {
+.right .cover1 {
   transition: transform 200ms 120ms;
 }
-.right .cover2 {
+
+/*.right .cover2 {
   transition: transform 200ms;
 }
 .index0 .cover1 {
