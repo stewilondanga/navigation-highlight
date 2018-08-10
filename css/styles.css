@@ -51,11 +51,12 @@ body {
   transition: color 200ms, fill 200ms;
 }
 
-/*.index0 .option:nth-child(1) {
+.index0 .option:nth-child(1) {
   color: #4080ff;
   fill: #4080ff;
 }
-.index1 .option:nth-child(2) {
+
+/*.index1 .option:nth-child(2) {
   color: #4080ff;
   fill: #4080ff;
 }
