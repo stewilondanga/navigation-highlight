@@ -25,10 +25,11 @@ body {
   height: 1.5em;
 }
 
-/*.nav {
+.nav {
   overflow: hidden;
 }
-.options {
+
+/*.options {
   display: flex;
   -moz-user-select: none;
   -webkit-user-select: none;
