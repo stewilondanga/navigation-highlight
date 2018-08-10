@@ -37,7 +37,7 @@ body {
   user-select: none;
 }
 
-/*.option {
+.option {
   align-items: center;
   color: #444;
   cursor: pointer;
@@ -50,7 +50,8 @@ body {
   text-align: center;
   transition: color 200ms, fill 200ms;
 }
-.index0 .option:nth-child(1) {
+
+/*.index0 .option:nth-child(1) {
   color: #4080ff;
   fill: #4080ff;
 }
