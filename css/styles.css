@@ -103,10 +103,11 @@ body {
   transform: translateX(-95%) skew(45deg);
 }
 
-/*.index0 .cover2 {
+.index0 .cover2 {
   transform: translateX(28.33%) skew(-45deg);
 }
-.index1 .cover1 {
+
+/*.index1 .cover1 {
   transform: translateX(-61.67%) skew(45deg);
 }
 .index1 .cover2 {
