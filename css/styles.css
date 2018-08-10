@@ -61,11 +61,12 @@ body {
   fill: #4080ff;
 }
 
-/*.index2 .option:nth-child(3) {
+.index2 .option:nth-child(3) {
   color: #4080ff;
   fill: #4080ff;
 }
-.bar {
+
+/*.bar {
   background: #4080ff;
   height: 3px;
   margin-bottom: 8px;
