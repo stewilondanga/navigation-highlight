@@ -119,11 +119,11 @@ body {
   transform: translateX(-28.33%) skew(45deg);
 }
 
-/*.index2 .cover2 {
+.index2 .cover2 {
   transform: translateX(95%) skew(-45deg);
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
