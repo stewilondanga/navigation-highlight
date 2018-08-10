@@ -56,11 +56,12 @@ body {
   fill: #4080ff;
 }
 
-/*.index1 .option:nth-child(2) {
+.index1 .option:nth-child(2) {
   color: #4080ff;
   fill: #4080ff;
 }
-.index2 .option:nth-child(3) {
+
+/*.index2 .option:nth-child(3) {
   color: #4080ff;
   fill: #4080ff;
 }
