@@ -83,10 +83,11 @@ body {
   width: 100%;
 }
 
-/*.left .cover1 {
+.left .cover1 {
   transition: transform 200ms;
 }
-.left .cover2 {
+
+/*.left .cover2 {
   transition: transform 200ms 120ms;
 }
 .right .cover1 {
